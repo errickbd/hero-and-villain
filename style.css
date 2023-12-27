@@ -13,23 +13,40 @@
 }
 .home-banner-01{
     background-color: rgb(139, 139, 139);
+    padding-top: 10px;
     padding-bottom: 10px;
-    border: 3px solid rgb(7, 7, 7) ;
+    border-top: 3px solid rgb(7, 7, 7) ;
     text-shadow: 0 0 3px #e5e5e6, 0 0 5px #d4d4ff;
-    background: linear-gradient(rgb(139, 139, 139), rgb(240, 246, 247));
+    background: linear-gradient(rgb(139, 139, 139), rgb(255, 255, 255));
     text-align: center;
-    
 }
+.home-banner-rest{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 0 0 3px #e5e5e6, 0 0 5px #d4d4ff;
+    background: linear-gradient(rgb(255, 255, 255),rgb(210, 210, 210), rgb(255, 255, 255));
+    text-align: center;
+}
+.home-banner-last{
+    background-color: rgb(139, 139, 139);
+    padding-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: px solid rgb(7, 7, 7) ;
+    text-shadow: 0 0 3px #e5e5e6, 0 0 5px #d4d4ff;
+    background: linear-gradient(rgb(255, 255, 255), rgb(139, 139, 139),rgb(255, 255, 255));
+    text-align: center;
 
+}
 h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 .shop-button{
-    background-color: rgb(255, 160, 43);
+    background-color: rgb(255, 245, 233);
     color: rgb(54, 36, 36);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    border: 1px solid rgb(7, 7, 7) ;
+    border: 1.5px solid rgb(7, 7, 7) ;
+    background: radial-gradient( rgb(253, 230, 203),rgb(252, 131, 31));
     
     
 }
@@ -48,7 +65,12 @@ h2{
 }
 #freeship{
     padding-right: 1px;
-    margin-right:10px;
+    margin-right:15px;
     font-size: small;
     color: rgb(175, 239, 253);
+
+}
+footer{
+    border-top: 8px solid rgb(7, 7, 7) ;
+    
 }
