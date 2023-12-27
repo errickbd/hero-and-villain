@@ -74,3 +74,6 @@ footer{
     border-top: 8px solid rgb(7, 7, 7) ;
     
 }
+.navbar-toggler{
+    border: .8px solid rgb(84, 84, 84)
+}
