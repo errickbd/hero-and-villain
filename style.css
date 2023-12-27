@@ -68,6 +68,7 @@ h2{
     margin-right:15px;
     font-size: small;
     color: rgb(175, 239, 253);
+
     
 
 }
@@ -80,4 +81,10 @@ footer{
 }
 .icon{
     padding-right: 0;
+}
+.nav-button{
+    margin-left: 15px;
+}
+#shipdiv{
+    text-align: center;
 }
