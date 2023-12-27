@@ -68,6 +68,7 @@ h2{
     margin-right:15px;
     font-size: small;
     color: rgb(175, 239, 253);
+    
 
 }
 footer{
@@ -76,4 +77,7 @@ footer{
 }
 .navbar-toggler{
     border: .8px solid rgb(84, 84, 84)
+}
+.icon{
+    padding-right: 0;
 }
