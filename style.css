@@ -1,3 +1,54 @@
 .tab{
     color: #878484;
 }
+
+#search-icon{
+    padding-right: 1px;
+    margin-right:10px;
+}
+
+#main{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+.home-banner-01{
+    background-color: rgb(139, 139, 139);
+    padding-bottom: 10px;
+    border: 3px solid rgb(7, 7, 7) ;
+    text-shadow: 0 0 3px #e5e5e6, 0 0 5px #d4d4ff;
+    background: linear-gradient(rgb(139, 139, 139), rgb(240, 246, 247));
+    text-align: center;
+    
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.shop-button{
+    background-color: rgb(255, 154, 54);
+    color: rgb(54, 36, 36);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid rgb(7, 7, 7) ;
+    
+    
+}
+.container-fluid{
+    background-color: rgb(51, 52, 55);
+}
+.company-name{
+    background-color: rgba(248, 233, 24, 0.885);
+    border-radius: 8%;
+    padding: 4px;
+    
+
+}
+.browse-button{
+    padding-top: 2px;
+}
+#freeship{
+    padding-right: 1px;
+    margin-right:10px;
+    font-size: small;
+    color: rgb(175, 239, 253);
+}
