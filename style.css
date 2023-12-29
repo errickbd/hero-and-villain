@@ -1,21 +1,22 @@
+#main{
+    background-color: rgb(255, 255, 255);
+    height: 50%;
+}
 .tab{
     color: #878484;
 }
-
 #search-icon{
     padding-right: 1px;
     margin-right:10px;
     align-items: center;
+    padding-bottom: 1.3px;
+    
 }
 #cart-icon{
     padding-right: px;
     margin-right:5px;
     align-items: center;
-}
-
-#main{
-    background-color: rgb(255, 255, 255);
-    height: 100%;
+    padding-bottom: 1px;
 }
 .home-banner-01{
     background-color: rgb(139, 139, 139);
@@ -41,7 +42,6 @@
     text-shadow: 0 0 3px #e5e5e6, 0 0 5px #d4d4ff;
     background: linear-gradient(rgb(255, 255, 255), rgb(139, 139, 139),rgb(255, 255, 255));
     text-align: center;
-
 }
 h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -52,9 +52,7 @@ h2{
     color: rgb(54, 36, 36);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border: 1.5px solid rgb(7, 7, 7) ;
-    background: radial-gradient( rgb(253, 230, 203),rgb(252, 131, 31));
-    
-    
+    background: radial-gradient( rgb(253, 230, 203),rgb(252, 131, 31));   
 }
 .container-fluid{
     background-color: rgb(51, 52, 55);
@@ -63,8 +61,6 @@ h2{
     background-color: rgba(248, 233, 24, 0.885);
     border-radius: 8%;
     padding: 4px;
-    
-
 }
 .browse-button{
     padding-top: 2px;
@@ -75,13 +71,9 @@ h2{
     font-size: small;
     color: rgb(175, 239, 253);
     margin-top: 2px;
-
-    
-
 }
 footer{
     border-top: 8px solid rgb(7, 7, 7) ;
-    
 }
 .navbar-toggler{
     border: .8px solid rgb(84, 84, 84)
@@ -97,14 +89,10 @@ footer{
 }
 #navbar-right{
     position:fixed;
-    display: flex;
-    
-    
+    display: flex; 
     align-items: center;
     right:1%;
-    top: 1.5%;
-    
-    
+    top: 1.5%; 
 }
 
 
