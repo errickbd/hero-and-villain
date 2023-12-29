@@ -5,11 +5,17 @@
 #search-icon{
     padding-right: 1px;
     margin-right:10px;
+    align-items: center;
+}
+#cart-icon{
+    padding-right: px;
+    margin-right:5px;
+    align-items: center;
 }
 
 #main{
     background-color: rgb(255, 255, 255);
-    height: 100vh;
+    height: 100%;
 }
 .home-banner-01{
     background-color: rgb(139, 139, 139);
@@ -68,6 +74,7 @@ h2{
     margin-right:15px;
     font-size: small;
     color: rgb(175, 239, 253);
+    margin-top: 2px;
 
     
 
@@ -89,11 +96,13 @@ footer{
     text-align: center;
 }
 #navbar-right{
-    position:absolute;
+    position:fixed;
     display: inline-flex;
-    background-color: purple;
-    text-align: center;
+    
+    
     align-items: center;
+    right:1%;
+    top: 1.5%;
     
     
 }
