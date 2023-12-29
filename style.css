@@ -88,3 +88,14 @@ footer{
 #shipdiv{
     text-align: center;
 }
+#navbar-right{
+    position:absolute;
+    display: inline-flex;
+    background-color: purple;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+
